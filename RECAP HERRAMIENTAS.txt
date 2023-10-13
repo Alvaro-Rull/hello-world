@@ -1,0 +1,6 @@
+RECAP HERRAMIENTAS
+
+1semana- intro
++semanas- DF(vectores en columnas),tipos de objetos q condiicionan,valores faltantes,ficheros en disco,dplyr(partimos df y utilizamos PIPE,VERBOS,),ggplot(dipersion = point, serie temporal = line,histogram,boxplot,jitter,facets),elementos de programacion(usar funciones,bucles,lapply,condicionales)
+
+Readxl(PARA EXCEL)
